@@ -1,9 +1,7 @@
 
 # 🇧🇩 Neighborhood Fresh Food Marketplace
 
-A **hyperlocal food marketplace** for Bangladesh where buyers can find  
-**fresh vegetables, fruits, meats, fish, and eggs within 5 km** — and  
-**contact sellers directly by phone** (no online payment, no chat).
+A **hyperlocal food marketplace** for Bangladesh where buyers can find  **fresh vegetables, fruits, meats, fish, and eggs within 5 km** — and  **contact sellers directly by phone** (no online payment, no chat).
 
 ---
 
